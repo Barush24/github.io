@@ -1,0 +1,10 @@
+---
+title: <center>GEOG 13</center>
+---
+
+During summer of 2021 at the University of California Santa Barbara, I took a GIS class that is based in R. Geog 13 was my first introduction to coding and data science, below you will find links to projects that will showcase my progress with R and Data Science. 
+
+
+## [Building a project website]()
+- This assignment introduces the first steps in programming a functional website were I could showcase all project completed during GEOG 13. 
+- This website will include a repo page for access to all Code. 

@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Barush Martinez
+</center>
+  
+I am transfer student from [San Diego Ca](https://en.wikipedia.org/wiki/San_Diego). I enjoy spending time outdoors surfing, hiking and running. I am currently working for [Chula Vista's Fire Department](https://www.chulavistaca.gov/departments/fire-department) as en EMT. After graduating UCSB I plan on becoming a paramedic in order to pay for a master degrees in Data Science. Geog 13 is my second class where we use Rstudio and R for class purposes. I am still a beginner with R and find it difficult, I look forward to gaining more experience with R studio and R during this class. 
