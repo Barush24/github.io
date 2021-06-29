@@ -1,0 +1,18 @@
+---
+title: "Education and Ecperience"
+---
+
+<br>
+
+The following page will go over personal educational background as well as experience coding with Rstudio.
+<br>
+<br>
+
+### [Education]()
+-[Olympain High School](http://olh.sweetwaterschools.org) ***2014-2017***
+-[Southwestern Community College](https://www.swccd.edu) ***2017-2019***
+-[Univeristy of California Santa Barbara](https://www.ucsb.edu)***2019-2021***
+  
+  
+### [Experience with R ]() 
+- None yet
